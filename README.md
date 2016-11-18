@@ -2,6 +2,6 @@
 
 Kafka connect with dockerize client installed.
 
-![kafka connect](https://github.com/confluentinc/cp-docker-images)
+[kafka connect](https://github.com/confluentinc/cp-docker-images)
 
-![dockerize](https://github.com/jwilder/dockerize)
+[dockerize](https://github.com/jwilder/dockerize)
