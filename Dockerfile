@@ -1,4 +1,4 @@
-FROM confluentinc/cp-kafka-connect:3.1.0
+FROM confluentinc/cp-kafka-connect:3.1.1
 
 MAINTAINER Omnys srl <sistemi@omnys.com>
 
